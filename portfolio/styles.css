@@ -1,0 +1,33 @@
+html{
+    background-color: darkgrey;
+}
+
+.subtitles{
+    border-color: black;
+    border-style:solid;
+    text-decoration: underline;
+    text-decoration-color: ivory;
+    font-size: 35px;
+}
+
+.main-body{
+    border:lavenderblush 5px;
+    border-style: solid;
+    border-left-style: double;
+    border-right-style: double;
+}
+
+.top-page{
+    background-color:ivory;
+    text-align: center;
+    background-size: cover;
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+body{
+    background-color: rgb(233, 225, 218);
+    border: black;
+    border-left: darkgrey;
+    border-right:darkgrey
+}
